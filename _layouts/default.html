@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      background-color: #0b0c10;
+      color: #c5c6c7;
+      font-family: 'Segoe UI', sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    a { color: #66fcf1; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    h1, h2, h3 { color: #45a29e; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p><a href="/">Home</a> | <a href="/crew/">Crew</a> | <a href="/vault/">Lore</a> | <a href="/red-sector/">Red Sector</a></p>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>

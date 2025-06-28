@@ -1,3 +1,8 @@
-# Red Sector
+---
+layout: default
+title: Red Sector
+---
 
-This is the mature content zone. Viewer discretion advised.
+## ⚠️ Red Sector Access
+
+This section contains mature logs. Viewer discretion advised.

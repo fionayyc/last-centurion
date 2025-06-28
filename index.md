@@ -5,4 +5,4 @@ title: The Last Centurion
 
 # Welcome aboard *The Last Centurion*
 
-Navigate via the links to crew bios, logs, lore, and more.
+This is your command terminal. Navigate using the links above to explore the crew, lore, and mission logs.

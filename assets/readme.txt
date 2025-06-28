@@ -1,1 +1,1 @@
-Place your images and other media here.
+Store crew images, starship art, and other media here.
