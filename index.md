@@ -1,8 +1,4 @@
----
-layout: default
-title: The Last Centurion
----
+# The Last Centurion
+Welcome aboard the Last Centurion — a capital-class cruiser venturing the stars.
 
-# Welcome aboard *The Last Centurion*
-
-This is your command terminal. Navigate using the links above to explore the crew, lore, and mission logs.
+Explore the crew, ship specs, and story of 'Ghosts in the Rift'.

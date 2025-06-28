@@ -1,8 +1,19 @@
 ---
-layout: default
 title: Seraphim Katt
+layout: default
 ---
 
-## Seraphim Katt
+## Species
+Custom Miqo'te/Catgirl hybrid
 
-Miqo'te hybrid spy and diplomat. Deadly, charming, and extremely flexible.
+## Role
+Spy / Diplomat / Close Combat Specialist
+
+## Traits
+Seductive, witty, manipulative, deadly
+
+## Weapons
+Knives, light sabers, seduction
+
+## Combat Style
+Subterfuge, seduction, improvisation
