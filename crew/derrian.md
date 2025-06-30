@@ -59,6 +59,56 @@ He commands *The Last Centurion* not out of pride—but out of duty. The galaxy 
 
 ---
 
+🛡️ Armor & Attire
+Tactical Missions:
+Wears Jedi-style combat armor reminiscent of Clone Wars-era battlefield garb: modular, matte-black plating over flexible durafiber mesh
+
+Reinforced vambraces integrated with sensor readouts, commlinks, and a wrist-mounted scanner for ancient tech or hostile signals
+
+Custom shoulder pauldron with his old resistance unit’s insignia—a broken chain wrapped in flame
+
+Off-Duty / Shipboard:
+Wears durable combat cargo pants like Loona—loose enough for freedom of motion, tight enough to conceal weaponry
+
+Top layer is either a black sleeveless tank (showcasing lean muscle and old scars) or a tactical tee
+
+Occasionally wears a shoulder holster rig or utility belt even when not on duty—habit, not paranoia
+
+⚔️ Weapons & Tools
+Lightsaber:
+Scout-configured hilt, worn horizontally across the small of his back—easily missed by the untrained eye
+
+Ancient and etched with faint Force-reactive glyphs near the emitter that softly hum or flicker in tune with nearby disturbances in the Force
+
+Saber remains white under emotional balance, shifts through subtle hues—gray-blue for sorrow, deep violet for resolve, red when enraged
+
+The blade isn’t decorative—it’s a final answer
+
+Blaster Pistol:
+Custom-built, heavy-frame energy pistol with deep recoil, shaped for his strength and Force anchoring
+
+Uses feedback surge ignition—a kinetic burst triggered by a combination of grip pressure and micro Force-channels
+
+Impossible to fire accurately (or safely) by anyone else—attempting it would result in a broken wrist or shoulder dislocation from the forceful kickback
+
+Can be overcharged for crowd control or shield breaking—but overheats after two rapid full-power shots
+
+Other Equipment:
+Retractable climbing spike embedded in one gauntlet
+
+Compact vibroblade housed under his right forearm plate
+
+Spare saber crystal kept locked in Eve’s protected vault (origin unknown)
+
+🎯 Tactical Summary
+His primary fighting style blends calculated aggression, agility, and Force foresight
+
+Uses the Force sparingly but effectively—mostly for enhanced reflexes, spatial awareness, and defensive barriers
+
+Views the lightsaber as a last resort; prefers to fight like a soldier, not a mystic
+
+In close quarters, he is blindingly fast, but only engages when cornered or forced
+
 ## 🧩 Secrets, Hooks & Plot Seeds
 
 - Derrian’s lightsaber was once red. It changed after he abandoned a dark path—one that still calls to him in dreams.
