@@ -1,6 +1,7 @@
 # Seraphim Katt
 
 ![Seraphim Katt](../assets/seraphim.jpg)
+
 **Species:** Miqo'te / Catgirl Hybrid  
 **Role:** Spy, Diplomat, Close Combat Specialist  
 **Weapons:** Knives, light sabers, seduction  
