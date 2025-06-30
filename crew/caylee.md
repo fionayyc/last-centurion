@@ -1,5 +1,7 @@
 # Caylee Jay
 
+![Caylee Jay](../assets/caylee.jpg)
+
 **Species:** Jackal (Anthro)  
 **Role:** Chief Engineer  
 **Age:** 16 (legal adult in-universe)  
