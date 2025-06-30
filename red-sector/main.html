@@ -7,66 +7,104 @@
   <link rel="stylesheet" href="../assets/style.css">
   <style>
     body.red-sector {
+      margin: 0;
+      padding: 0;
       background-color: #1a0000;
       color: #ffe6e6;
       font-family: 'Orbitron', sans-serif;
-      padding: 2rem;
+      display: flex;
     }
-    .container {
-      max-width: 800px;
-      margin: auto;
+    .sidebar {
+      width: 240px;
       background-color: #2d0000;
-      padding: 2rem;
-      border-radius: 10px;
-      box-shadow: 0 0 20px #ff1a1a88;
-      border: 2px solid #ff1a1a;
+      padding: 2rem 1rem;
+      box-shadow: 2px 0 10px #ff1a1a55;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
     }
-    h1, h2 {
+    .sidebar h2 {
+      color: #ff4d4d;
+      border-bottom: 1px solid #ff4d4d66;
+      padding-bottom: 0.5rem;
+      font-size: 1.2rem;
+    }
+    .sidebar a {
+      color: #ff9999;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .sidebar a:hover {
+      color: #ffffff;
+    }
+    .content {
+      flex-grow: 1;
+      padding: 2rem;
+    }
+    h1 {
       color: #ff4d4d;
       text-align: center;
     }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin: 1rem 0;
-    }
-    a {
-      color: #ff8080;
-      font-weight: bold;
-      text-decoration: none;
-    }
-    a:hover {
-      color: #ffffff;
-      text-decoration: underline;
-    }
     p {
       text-align: center;
+      margin-bottom: 2rem;
+    }
+    .gallery {
+      max-width: 600px;
+      margin: 2rem auto;
+      border: 2px solid #ff4d4d88;
+      box-shadow: 0 0 20px #ff4d4d55;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .gallery img {
+      width: 100%;
+      display: block;
+      border-radius: 10px;
     }
   </style>
+  <script>
+    let index = 0;
+    const images = [
+      "../assets/images/redsector/seraphim-nsfw.jpg",
+      "../assets/images/redsector/eve-nsfw.jpg",
+      "../assets/images/redsector/caylee-nsfw.jpg",
+      "../assets/images/redsector/loona-nsfw.jpg",
+      "../assets/images/redsector/dash-nsfw.jpg"
+    ];
+    function rotateImage() {
+      const img = document.getElementById("gallery-image");
+      index = (index + 1) % images.length;
+      img.src = images[index];
+    }
+    window.onload = function() {
+      setInterval(rotateImage, 5000);
+    };
+  </script>
 </head>
 <body class="red-sector">
-  <div class="container">
-    <h1>❤️‍🔥 Red Sector Main Hub</h1>
-    <p>Welcome to the ship’s pleasure deck. All entries below contain NSFW content and should be accessed with full consent and crew privacy in mind.</p>
+  <div class="sidebar">
+    <h2>Logs</h2>
+    <a href="./logs/seraphim-nsfw.html">Seraphim Katt</a>
+    <a href="./logs/eve-nsfw.html">E.V.E.L.I.N.E.</a>
+    <a href="./logs/caylee-nsfw.html">Caylee Jay</a>
+    <a href="./logs/loona-nsfw.html">Loona Virex</a>
+    <a href="./logs/dash-nsfw.html">Dash</a>
 
-    <h2>📓 Featured Logs</h2>
-    <ul>
-      <li><a href="./logs/seraphim-nsfw.md">Seraphim Katt: Covert Charms</a></li>
-      <li><a href="./logs/eve-nsfw.md">E.V.E.L.I.N.E.: Avatar Intimacy Logs</a></li>
-      <li><a href="./logs/caylee-nsfw.md">Caylee Jay: Behind Closed Bulkheads</a></li>
-      <li><a href="./logs/loona-nsfw.md">Loona Virex: Dominance Protocols</a></li>
-      <li><a href="./logs/dash-nsfw.md">Dash: Cockpit Confessions</a></li>
-    </ul>
+    <h2>Club Centurion</h2>
+    <a href="./club/menu.html">Bar Menu</a>
+    <a href="./club/simulation-archive.html">Sim Archive</a>
 
-    <h2>🍸 Club Centurion</h2>
-    <ul>
-      <li><a href="./club/menu.md">Bar & Indulgence Menu</a></li>
-      <li><a href="./club/simulation-archive.md">Erotic Simulation Archive</a></li>
-    </ul>
+    <h2>Navigation</h2>
+    <a href="../index.html">↩ Return to Main Deck</a>
+  </div>
+  <div class="content">
+    <h1>❤️‍🔥 Red Sector Hub</h1>
+    <p>Explore encrypted logs, synthetic indulgence, and pleasure protocols aboard the *Last Centurion*.</p>
 
-    <p><a href="../index.html">⬅ Return to Main Deck</a></p>
+    <div class="gallery">
+      <img id="gallery-image" src="../assets/images/redsector/seraphim-nsfw.jpg" alt="NSFW Crew Preview">
+    </div>
   </div>
 </body>
 </html>
