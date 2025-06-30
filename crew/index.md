@@ -10,4 +10,6 @@ Click a name below to access their full dossier.
 - [Caylee Jay](./caylee.md)
 - [Alexandra Dash](./dash.md)
 - [Sierra](./sierra.md)
+- [Vahlia](./vahlia)
+- [Sileya](./sileya)
 - [E.V.E.L.I.N.E.](./eve.md)
