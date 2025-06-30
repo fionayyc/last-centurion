@@ -60,3 +60,89 @@ Year	Event
 10 AE	Stole an ancient lightsaber from a fallen Dominion inquisitor.
 12 AE	Encountered Eve. Survived her trials. Claimed The Last Centurion.
 13 AE	Current year. Building a new crew. Avoiding galactic entanglements. Barely.
+
+⚔️ Derrian Wolfe — The Pale Ghost's Blade, Power & Past
+🌌 The Lightsaber — “Whisperfang”
+Design:
+Hilt is slim, blackened obsidian with silver inlays, etched in flowing Velari runes that shift subtly in moonlight or starlight.
+
+One side of the emitter is slightly flared, revealing part of the kyber focusing ring—a deliberate imperfection, allowing instability under duress.
+
+Color Behavior:
+White: Balanced calm—meditative or post-battle peace.
+
+Blue: Controlled, strategic, focused.
+
+Violet: Internal conflict, restraint struggling against rage.
+
+Red: Unfiltered fury—only seen when defending someone he loves or facing trauma.
+
+Black-core (rare): During moments of intense spiritual disconnection or “dead Veil” states.
+
+“A saber that listens, rather than speaks. That is a dangerous thing.”
+— Velari Master Ky’rhan
+
+Origin Story:
+Derrian didn’t forge his saber—not fully.
+
+At age 16, during his Velari training, he passed the Trial of Sight inside a Veil Nexus, where Force-sensitive crystals echoed the inner voice. His chosen kyber was flawed—already cracked—but when he touched it, the crystal pulsed in sync with his soul.
+
+Years later, while fleeing assassins on the moon Sel Athyr, Derrian fell into a collapsed Dominion outpost. There he found a long-dead Force Inquisitor, partially entombed. From the shattered remains, he salvaged parts of the inquisitor’s curved saber—including a blood-channel amplifier coil, banned by most orders.
+
+He rebuilt Whisperfang by fusing his cracked kyber with the inquisitor’s shell, creating an unstable blade that responds to emotion like a living extension of his being.
+
+🌀 The Veil (Force) — Derrian’s Abilities
+Velari Force Style: Veilwalking
+The Velari Creed believed the Force—the Veil—was a living ocean of emotional echoes. Where Jedi suppress emotion, Velari channel it—honing control through empathy, memory, and instinct.
+
+✨ Key Powers:
+Ability Name	Description
+Echo Drift	Momentary clairvoyance via emotional resonance—he can “feel” fear, betrayal, even love left in objects or locations.
+Phantom Step	Short-range blink movement, like vanishing between flickers of light—limited to line-of-sight.
+Soulflare	A surge of emotion-channeled Force that enhances reflexes, speed, and aggression. Side-effect: his eyes glow blood-red.
+Mind Veil	Passive ability that makes it difficult for even other Force users to read his mind or presence clearly—appears like “static.”
+
+⚠️ Limitations:
+Channeling emotion leaves psychic scarring. Repeated use of Soulflare causes memory echoes—phantom voices and dreams.
+
+His cracked kyber causes instability in high-stress combat—sometimes the blade sputters or changes unpredictably.
+
+❤️ Past Lovers
+Nyss Valeera – Velari Healer & His First Love
+Derrian's fellow initiate. She rejected the Council's desire for asceticism.
+
+They were bonded in secret, planning to run away together—until she betrayed him to the Creed after being promised a place among the Inner Circle.
+
+He still hears her voice when meditating too deeply.
+
+Last seen working with the Shadow Spire, a Veil-witch enclave.
+
+Tarek Vorn – Dominion Inquisitor, turned captive, turned... more
+Captured during a pirate skirmish, Tarek was kept alive for intel—but proved more cunning than expected.
+
+Over a year, the two debated philosophy, fought side by side, and developed an intense, dangerous bond.
+
+Tarek eventually escaped—or was released.
+
+Rumor says he’s now working as a private assassin, still searching for Derrian.
+
+⚔️ Notable Foes
+Grand Purifier Sorina Kael – Leader of the Creed Purge
+Blames Derrian for the deaths of her family during the Creed collapse.
+
+Obsessed with “purifying” corrupted Force users. Has a prosthetic arm powered by captive kyber shards.
+
+Commands an elite force of Wraithknights—black-cloaked Veil-hunters.
+
+Considered one of the few people Eve openly despises.
+
+“The Ghoul Admiral” - Vox Rem Kar
+Augmented cyborg admiral of the Red Spindle Cartel.
+
+Runs a galactic black market ring dealing in Force-sensitive children.
+
+Has vowed to skin Derrian’s tail for sabotaging a “shipment.”
+
+His flagship The Bone Whisper once clashed with the Centurion over a dying star.
+
+
