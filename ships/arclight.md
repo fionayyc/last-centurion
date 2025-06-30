@@ -1,28 +1,66 @@
-🧬 2. “The Arclight”
-Class: Science-Defense Recon Shuttle
-Length: ~18 meters
-Primary Role: Exploration, precision landing ops, defensive escort
-Design Inspiration: Delta Flyer from Star Trek: Voyager
 
-Overview:
-“The Arclight” is the high-end systems platform used by Sierra, Vahlia, and mission specialists for exploration, deep scans, Veil-anomaly intercepts, and long-range field testing. Its design is aerodynamic, elegant, and heavily shielded—able to enter atmospheres or energy pockets no freighter would dare touch.
+# 🛸 The Arclight
 
-Key Features:
-Advanced sensor suite capable of deep-scan geological, biological, and Veil signatures
+![The Arclight Placeholder](../assets/arclight-placeholder.jpg)
 
-Shield-pulse emitter—projected bubble to repel microdebris or null-energies
+> The analytical edge of the Last Centurion. _The Arclight_ is the ship’s fast-response science and defense shuttle — swift, durable, and surgically outfitted for deep scans, planetary surveys, and rapid away missions.
 
-Mini medical bay with zero-g surgery gurney
+---
 
-Cloaking array (limited use, requires cooldown)
+## 🚐 Shuttle Overview
 
-Two retractable phaser/laser banks, optimized for defensive fire or fast takedowns
+- **Class:** Multipurpose shuttle
+- **Length:** 22 meters
+- **Primary Role:** Scientific analysis, atmospheric recon, agile away-team transport
+- **Drive Systems:** Advanced FTL core + sublight impulse thrusters
+- **Shields:** Twin-layered deflector array + emergency repulsor flare
 
-Interior:
-Soft-lit console wrap, hover-chairs that magnetize to floor surfaces, and one seat coded to Sierra’s biometric lock
+---
 
-Sileya's calming charms hang from a ceiling rail—crew often reports fewer headaches when aboard
+## 🧪 Internal Systems
 
-Storage modules along both sides house sample canisters, surgical gear, and weapon diagnostics pods
+| System | Description |
+|--------|-------------|
+| **Sensor Suite Mk7** | Long-range and wide-spectrum scans, Rift-reactive detection |
+| **Laboratory Pod** | Onboard mobile lab for tissue, tech, or Rift sample analysis |
+| **Triage Medbay** | Equipped with stabilization cradle and AI-assisted diagnostics |
+| **Shield-Tuned Hull** | Resistant to solar storms and gravitational anomalies |
 
-Eve refers to it as “the child Sierra will leave me for someday.”
+---
+
+## ⚔️ Defense & Maneuverability
+
+- **Pulse Turrets:** Top and underbelly-mounted, Eve-controlled if crewed light
+- **Micro-EMP Mines:** For disabling chasing ships or satellites
+- **Grav-Lock Clamps:** Allow docking with derelicts, orbital stations, or Rift ruins
+
+---
+
+## 👩‍🔬 Crew & Usage
+
+Typical crew:
+- **Sierra (Science Officer)** — leads away missions
+- **Veyla or Sileya** — provides medical support or psychic foresight
+- **Seraphim or Dash** — for protection, charm, or piloting
+
+The Arclight’s design balances combat survivability with the capacity to record and examine anomalies mid-flight. It often operates ahead of the Centurion during cautious entries into Rift-affected space.
+
+---
+
+## 🧩 Mission Highlights
+
+- **Rift Echo 12:** Recorded and contained a Rift tear before it destabilized a local moon’s gravity field
+- **Black Ice Run:** Used shielded hull to bypass solar storm and extract cryo-pods from derelict colony ship
+- **Shardveil Encounter:** Survived proximity contact with a Rift specter — still under quarantine review
+
+---
+
+## 🧠 Integration
+
+- Linked to Eve via encrypted auxiliary uplink
+- Can operate semi-autonomously for short recon runs
+- Features override protocols for Captain, XO, and Sierra only
+
+---
+
+_If The Whisper hides in shadow... The Arclight blazes through it._
