@@ -1,5 +1,3 @@
-# 🛰️ *The Last Centurion*
-
 > *A capital-class cruiser adrift between stars, secrets, and war.*
 
 ---
