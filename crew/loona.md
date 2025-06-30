@@ -1,6 +1,6 @@
 # Loona
 
-![Loona](../assets/Loona.jpg)
+![Loona](../assets/loona.jpg)
 
 **Species:** Hellhound (Anthro)  
 **Role:** Tactical Officer, Executive Officer (XO)  
