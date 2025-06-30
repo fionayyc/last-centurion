@@ -1,6 +1,6 @@
 # 👤 Derrian Wolfe
 
-![Derrian Wolfe](../assets/derrian.jpg)
+![Derrian Wolfe](../assets/derrian.png)
 
 **Species:** Kitsune (Anthro Fox)  
 **Role:** Captain of *The Last Centurion*, Force-sensitive  
