@@ -6,7 +6,7 @@
 E.V.E.L.I.N.E. (Eve) is not just the Last Centurion’s AI — she is its will given form. Through an array of mech-class avatars and projection holograms, Eve handles everything from docking control to drink mixing, all while watching (and sometimes teasing) every member of the crew.
 ---
 
-![Eve Mech](../assets/eve-mech.jpg)
+![Eve Mech](../assets/eve-mech.png)
 
 ---
 
