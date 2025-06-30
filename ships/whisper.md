@@ -9,7 +9,7 @@
 
 ## 🚐 Shuttle Overview
 
-- **Class:** Modified Ebon Hawk-style freighter
+- **Class:** Modified freighter
 - **Length:** 34 meters
 - **Primary Role:** Covert transport, smuggling, infiltration
 - **Drive Systems:** Warp and Hyperspace FTL, with black-market stabilizers
