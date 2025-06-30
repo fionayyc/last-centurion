@@ -5,7 +5,7 @@ Welcome to the crew directory of *The Last Centurion*.
 Click a name below to access their full dossier.
 
 - [Captain Derrian Wolfe](./derrian.md)
-- [Loona](./loona.md)
+- [Loona Virex](./loona.md)
 - [Seraphim Katt](./seraphim.md)
 - [Caylee Jay](./caylee.md)
 - [Alexandra Dash](./dash.md)
