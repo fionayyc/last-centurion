@@ -1,3 +1,0 @@
-# Sierra Profile
-
-TBD

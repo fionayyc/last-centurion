@@ -1,3 +1,0 @@
-# Derrian Profile
-
-TBD

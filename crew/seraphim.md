@@ -1,3 +1,0 @@
-# Seraphim Profile
-
-TBD
