@@ -1,36 +1,63 @@
-🦴 Skull Squadron
-Craft: VF-Blackline Veratech Fighters
-Number: 2
-Role: Heavy interceptors / Mecha-capable dogfighters
-Design Influence: F-14 Tomcat x Macross Veritech
 
-Overview:
-The Veratechs are shape-shifting multi-role fighters capable of transitioning between:
+# 💀 Skull Squadron
 
-Flight Mode: Classic high-speed fighter configuration with folding wings and tail thrust vectors
+![Skull Squadron Placeholder](../assets/skull-placeholder.jpg)
 
-Guardian Mode: Partial transformation for aerial hover combat, ideal for precision mid-air stability
+> Two elite Veratech-class transforming fighters. Skull Squadron is the hammer of the Centurion’s wings — deployed only when surgical precision meets overwhelming force.
 
-Battroid Mode: Full mecha form, used for close-quarters combat or spacewalk boarding operations
+---
 
-Loadout:
-Twin Railgun Cannons (wrist-mounted in robot mode, nose-mounted in fighter mode): Fires high-velocity penetrator rounds that bypass most conventional shielding
+## 🛩️ Craft Overview
 
-Missile Loadout:
+- **Class:** Veratech VF-X Dual Fighters
+- **Number of Units:** 2 (Skull 1 and Skull 2)
+- **Pilots:** Assigned to Dash, Derrian (occasionally), and trained support crew
+- **Modes:**
+  - **Jet Mode:** High-speed atmospheric and space flight
+  - **Guardian Mode:** Hybrid fighter/mech form with enhanced maneuverability
+  - **Battroid Mode:** Full humanoid mech form with advanced melee capabilities
 
-Seeker Swarms (anti-fighter)
+---
 
-Tungsten Crunchers (anti-capital armor)
+## ⚙️ Weapon Systems
 
-EMP Quills (electronic warfare)
+| Weapon | Description |
+|--------|-------------|
+| **Railgun Pods** | Shield-piercing slugs capable of disabling capital ship plating |
+| **Missile Racks** | Under-wing rotary launchers with variable payloads |
+| **Plasma Blades** | Deployable arm-mounted weapons used in mech mode |
+| **ECM Suite** | Defensive countermeasures to scramble targeting systems |
 
-Energy Blade (in mecha form): Retractable for dueling and emergency EVA combat
+---
 
-Pilot Notes:
-Used by only the most elite crew—likely one of them is flown by Seraphim when things get spicy
+## 🎛️ Technology Suite
 
-Eve maintains launch clearance overrides due to how dangerous they are to internal systems if mishandled
+- **NeuroLink Cockpit:** Allows experienced pilots to sync reflexes directly with flight controls
+- **AI Reflex Assist:** Eve provides predictive calculations to maximize evasion and targeting
+- **Adaptive Hull Coating:** Can mimic background radiation to delay visual acquisition
 
-“They don't just fly—they fight like gods in steel.”
-—Loona
+---
 
+## 🔧 Maintenance
+
+- **Primary Tech:** Caylee Jay
+- **Cycle Checks:** After every 3 sorties or one combat engagement
+- **Drone Docking:** Automated retrieval and repair procedures via hangar auto-arms
+
+---
+
+## 💡 Lore & Deployment
+
+Skull Squadron was originally designed for covert Dominion infiltration — their transformation modes allowed for mobility in hostile urban zones as well as vacuum environments. Now repurposed for the Centurion, they serve as the ship’s first line of offense and last line of defense.
+
+Pilots must pass a near-impossible sync test to fly one solo.
+
+---
+
+## 🪐 Mission History
+
+- **Operation Rift Wall:** Cleared Dominion blockade above Kestran 4
+- **Red Sector Reclamation:** Evacuated agents under fire while engaged in low-orbit dogfight
+- **Void Hunt:** Intercepted unmarked vessel attempting to probe Eve’s neural array
+
+Each Skull carries kill markers scored into their armor plating — a badge of honor and warning alike.
