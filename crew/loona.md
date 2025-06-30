@@ -1,5 +1,7 @@
 # Loona
 
+![Loona](../assets/Loona.jpg)
+
 **Species:** Hellhound (Anthro)  
 **Role:** Tactical Officer, Executive Officer (XO)  
 **Weapons:** Whisperfang (custom scythe), rapid-fire blaster rifle  
