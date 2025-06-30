@@ -1,86 +1,150 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Caylee Jay | The Last Centurion</title>
-  <link rel="stylesheet" href="../assets/styles.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Caylee Jay – The Last Centurion</title>
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    body {
+      font-family: 'Orbitron', sans-serif;
+      background-color: #0a0a0f;
+      color: #eee;
+      margin: 0;
+      padding: 2rem;
+    }
+    header {
+      background-color: #111;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 2rem;
+      border-bottom: 2px solid #2f2f4f;
+    }
+    header h1 {
+      font-size: 1.8rem;
+      margin: 0;
+    }
+    nav a {
+      color: #89b4f8;
+      text-decoration: none;
+      margin-left: 1.5rem;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #f28f8f;
+    }
+    img.profile {
+      width: 100%;
+      max-width: 300px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+    }
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #1a1a2e;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+    h2 {
+      color: #ff55aa;
+      margin-top: 1.5rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    table, th, td {
+      border: 1px solid #444;
+    }
+    th, td {
+      padding: 0.5rem;
+      text-align: left;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+  </style>
 </head>
 <body>
+  <header>
+    <h1>👨‍🚀 Crew Manifest – <em>The Last Centurion</em></h1>
+    <nav>
+      <a href="/last-centurion/crew/">Crew</a>
+      <a href="/last-centurion/logs/">Logs</a>
+      <a href="/last-centurion/ships/">Ships</a>
+      <a href="/last-centurion/tech/">Technical</a>
+      <a href="/last-centurion/red-sector/">Red Sector</a>
+    </nav>
+  </header>
 
-  <header class="crew-header">
+  <section>
+    <img src="../assets/caylee.jpg" alt="Caylee Jay" class="profile" />
     <h1>👤 Caylee Jay</h1>
-    <img src="../assets/caylee.jpg" alt="Caylee Jay" class="crew-img">
     <p><strong>Species:</strong> Anthro Jackal<br>
        <strong>Role:</strong> Chief Engineer<br>
        <strong>Age:</strong> 16 (legally adult in-universe)<br>
        <strong>Appearance:</strong> Tan fur, golden eyes, athletic and wiry build<br>
-       <strong>Style:</strong> Bikini top, cutoff shorts, goggles on her head or around her neck
-    </p>
-  </header>
+       <strong>Style:</strong> Bikini top, cutoff shorts, goggles on her head or around her neck</p>
 
-  <main class="crew-bio">
+    <h2>🔧 Personality Snapshot</h2>
+    <p>Caylee is the beating heart of the engine bay—chaotic, brilliant, and a little bit dangerous when unsupervised. She talks to machines like they’re old lovers, and they listen.</p>
+    <ul>
+      <li><strong>Alignment:</strong> Chaotic good</li>
+      <li><strong>Energy:</strong> High-speed and zero-filter</li>
+      <li><strong>Social:</strong> Extremely flirty, especially when covered in grease</li>
+      <li><strong>Ethics:</strong> Driven by curiosity and loyalty more than rules</li>
+    </ul>
+    <blockquote><em>“The engine hums sweeter when you whisper back. It’s not weird. You’re weird.”</em></blockquote>
 
-    <section class="bio-section">
-      <h2>🔧 Personality Snapshot</h2>
-      <p>Caylee is the beating heart of the engine bay—chaotic, brilliant, and a little bit dangerous when unsupervised. She talks to machines like they’re old lovers, and they listen.</p>
-      <ul>
-        <li><strong>Alignment:</strong> Chaotic good</li>
-        <li><strong>Energy:</strong> High-speed and zero-filter</li>
-        <li><strong>Social:</strong> Extremely flirty, especially when covered in grease</li>
-        <li><strong>Ethics:</strong> Driven by curiosity and loyalty more than rules</li>
-      </ul>
-      <blockquote>“The engine hums sweeter when you whisper back. It’s not weird. You’re weird.”</blockquote>
-    </section>
+    <h2>🛠️ Engineering Expertise</h2>
+    <table>
+      <tr><th>System</th><th>Description</th></tr>
+      <tr><td><strong>FTL Drive & Core</strong></td><td>Maintains and tunes the jump drive to precision, often mid-flight</td></tr>
+      <tr><td><strong>Ship Mods</strong></td><td>Has illegally modified nearly every major system onboard</td></tr>
+      <tr><td><strong>Drone Tech</strong></td><td>Programs and repairs Eve’s Echo and Phantom squadrons</td></tr>
+      <tr><td><strong>Jury Rigging</strong></td><td>Specializes in emergency in-field fixes using completely inappropriate tools</td></tr>
+    </table>
 
-    <section class="bio-section">
-      <h2>🛠️ Engineering Expertise</h2>
-      <table>
-        <tr><th>System</th><th>Description</th></tr>
-        <tr><td><strong>FTL Drive & Core</strong></td><td>Maintains and tunes the jump drive to precision, often mid-flight</td></tr>
-        <tr><td><strong>Ship Mods</strong></td><td>Has illegally modified nearly every major system onboard</td></tr>
-        <tr><td><strong>Drone Tech</strong></td><td>Programs and repairs Eve’s Echo and Phantom squadrons</td></tr>
-        <tr><td><strong>Jury Rigging</strong></td><td>Specializes in emergency in-field fixes using completely inappropriate tools</td></tr>
-      </table>
-    </section>
+    <h2>🧬 Background & Origin</h2>
+    <p>Born on a frontier colony that had to cannibalize tech to survive, Caylee learned to fix things before she could read. By 10, she was reverse-engineering engines. By 13, she was building her own hoverboard. She stowed away on a freighter to escape conscription and ended up on <em>The Last Centurion</em> by accident—then proved her worth before anyone could throw her off.</p>
 
-    <section class="bio-section">
-      <h2>🧬 Background & Origin</h2>
-      <p>Born on a frontier colony that had to cannibalize tech to survive, Caylee learned to fix things before she could read. By 10, she was reverse-engineering engines. By 13, she was building her own hoverboard. She stowed away on a freighter to escape conscription and ended up on <em>The Last Centurion</em> by accident—then proved her worth before anyone could throw her off.</p>
-    </section>
+    <h2>🚀 Why She’s Aboard</h2>
+    <p>She might be young, but she’s the only one who understands the ship the way Eve does. She keeps the ship flying, hacking, and evolving. If Caylee ever left, <em>The Last Centurion</em> would fall apart in less than a week.</p>
+    <p>She stays for the thrill… and the family she’s found in this dysfunctional crew.</p>
 
-    <section class="bio-section">
-      <h2>🚀 Why She’s Aboard</h2>
-      <p>She might be young, but she’s the only one who understands the ship the way Eve does. She keeps the ship flying, hacking, and evolving. If Caylee ever left, <em>The Last Centurion</em> would fall apart in less than a week.</p>
-      <p>She stays for the thrill… and the family she’s found in this dysfunctional crew.</p>
-    </section>
+    <h2>🤝 Relationships On Board</h2>
+    <ul>
+      <li><strong>Eve:</strong> Deep bond. They talk in encrypted jokes and circuit metaphors. Caylee calls her “Voidslick.”</li>
+      <li><strong>Derrian Wolfe:</strong> Views him as a strange father/teacher figure. She trusts him more than she lets on.</li>
+      <li><strong>Loona:</strong> Constantly butting heads. Caylee pokes; Loona growls. It’s a sibling thing. Mostly.</li>
+      <li><strong>Seraphim Katt:</strong> Thinks she’s hot and dangerous. They flirt often. Nothing serious... yet.</li>
+      <li><strong>Dash:</strong> Her absolute chaos twin. They once built a railgun slingshot for fun. It worked. Kind of.</li>
+      <li><strong>Sierra:</strong> Caylee respects her logic brain—but loves making her squirm with dirty jokes.</li>
+    </ul>
 
-    <section class="bio-section">
-      <h2>🤝 Relationships On Board</h2>
-      <ul>
-        <li><strong>Eve:</strong> Deep bond. They talk in encrypted jokes and circuit metaphors. Caylee calls her “Voidslick.”</li>
-        <li><strong>Derrian Wolfe:</strong> Views him as a strange father/teacher figure. She trusts him more than she lets on.</li>
-        <li><strong>Loona:</strong> Constantly butting heads. Caylee pokes; Loona growls. It’s a sibling thing. Mostly.</li>
-        <li><strong>Seraphim Katt:</strong> Thinks she’s hot and dangerous. They flirt often. Nothing serious... yet.</li>
-        <li><strong>Dash:</strong> Her absolute chaos twin. They once built a railgun slingshot for fun. It worked. Kind of.</li>
-        <li><strong>Sierra:</strong> Caylee respects her logic brain—but loves making her squirm with dirty jokes.</li>
-      </ul>
-    </section>
+    <h2>🧩 Secrets, Hooks & Plot Seeds</h2>
+    <ul>
+      <li>Caylee once hotwired an AI consciousness she wasn't supposed to—and something followed her from that server.</li>
+      <li>She's secretly building a prototype "mini-Centurion" drone ship without permission.</li>
+      <li>She has a rare genetic anomaly that makes her brain sync better with machines than most baseline humans.</li>
+    </ul>
 
-    <section class="bio-section">
-      <h2>🧩 Secrets, Hooks & Plot Seeds</h2>
-      <ul>
-        <li>Caylee once hotwired an AI consciousness she wasn't supposed to—and something followed her from that server.</li>
-        <li>She's secretly building a prototype "mini-Centurion" drone ship without permission.</li>
-        <li>She has a rare genetic anomaly that makes her brain sync better with machines than most baseline humans.</li>
-      </ul>
-    </section>
-
-  </main>
-
-  <footer>
-    <p><a href="../crew.html">&larr; Back to Crew Roster</a></p>
-  </footer>
-
+    <h2>🖼️ Crew Gallery</h2>
+    <div class="gallery">
+      <img src="../assets/caylee2.jpg" alt="Caylee Portrait">
+    </div>
+  </section>
 </body>
 </html>
