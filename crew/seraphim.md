@@ -2,7 +2,7 @@
 
 ![Seraphim Katt](../assets/seraphim.jpg)
 
-**Species:** Miqo'te / Catgirl Hybrid  
+**Species:** Catgirl Hybrid  
 **Role:** Spy, Diplomat, Close Combat Specialist  
 **Weapons:** Knives, light sabers, seduction  
 **Look:** Heterochromatic eyes (green & magenta), fit and toned, pink and black hair  
