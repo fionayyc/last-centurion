@@ -59,50 +59,43 @@ Since then, she’s stayed… mostly because she likes the chaos, the challenge,
 
 ---
 
-🔬 Species Classification – Velari (Felis Sapiens)
-Skin: Smooth, warm to the touch, free of fur. Naturally exudes faint pheromones when aroused or emotionally stimulated
+## 🔬 Species Classification – Velari (Felis Sapiens)
+- **Skin:** Smooth, warm to the touch, free of fur. Naturally exudes faint pheromones when aroused or emotionally stimulated
+- **Ears:** Triangular feline ears atop her head—expressive and sensitive to sound and touch
+- **Eyes:** Heterochromatic – one eye violet, the other emerald green; catlike slit pupils, responsive to light and emotion
+- **Teeth:** Slightly elongated canines—visible only when she smiles too wide or bares her teeth in combat or passion
+- **Tail:** Long, whip-like, responsive to mood—occasionally used for balance or expression
+- **Unique Trait:** Keeps her pubic hair meticulously trimmed into the shape of a paw print, a flirtatious signature and display of pride in her body
 
-Ears: Triangular feline ears atop her head—expressive and sensitive to sound and touch
+- **Height:** 5’8" — Sleek, toned, muscular in all the right ways. She’s athletic and voluptuous, designed for both pleasure and precision
 
-Eyes: Heterochromatic – one eye violet, the other emerald green; catlike slit pupils, responsive to light and emotion
+---
 
-Teeth: Slightly elongated canines—visible only when she smiles too wide or bares her teeth in combat or passion
-
-Tail: Long, whip-like, responsive to mood—occasionally used for balance or expression
-
-Unique Trait: Keeps her pubic hair meticulously trimmed into the shape of a paw print, a flirtatious signature and display of pride in her body
-
-Height: 5’8" — Sleek, toned, muscular in all the right ways. She’s athletic and voluptuous, designed for both pleasure and precision
-
-🩱 Attire & Presence
-On-Ship / Off-Duty Attire:
+## 🩱 Attire & Presence
+**On-Ship / Off-Duty Attire:**
 Prefers nudity—confidently prowls the halls naked unless tact or danger demand otherwise
-
 Uses her body to tease, unsettle, and command attention. She considers clothing a political statement, and she rarely makes the same one twice
 
-When dressed casually:
-
+**When dressed casually:**
 Razorback crop tank (minimalist, tight)
-
 Skin-tight spandex shorts, clinging to her form like a second skin
-
 Always barefoot unless leaving the ship—her claws are more than enough
 
-Battle Attire:
+**Battle Attire:**
 Sleek, tactical bodysuit with flexible plating
-
 Strategically designed to allow maximum movement with minimum coverage—often adorned with magnetic holsters, tech blades, and compact tools
-
 Despite her beauty, she’s never underestimated twice
 
-💋 Behavior & Persona
+---
+
+## 💋 Behavior & Persona
+
 Fully aware of the power her body holds—uses it with surgical precision
-
 Alternates between provocative tease and deadly professional at will
-
 Her sexual confidence is a weapon—she seduces, confuses, and manipulates effortlessly
-
 Believes that “truth is skin-deep,” and in showing her crew who she is—all of her
+
+---
 
 ## 🤝 Relationships On Board
 
