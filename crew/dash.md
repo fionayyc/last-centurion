@@ -1,5 +1,7 @@
 # Alexandra Dash
 
+![Alexandra Dash](../assets/dash.jpg)
+
 **Species:** Wolf (Anthro)  
 **Role:** Pilot, Sniper, Overwatch  
 **Weapons:** Long-range sniper rifle, sidearms, custom vehicle loadouts  
