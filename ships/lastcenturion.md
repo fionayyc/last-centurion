@@ -1,59 +1,88 @@
-🛠️ THE LAST CENTURION
-Command-Class Capital Vessel | Veil-Class Jump Ship
-AI Core: E.V.E.L.I.N.E. ("Eve")
-Crew Complement: 7+ core officers, AI avatars, autonomous drones
-Rated for: Interstellar combat, espionage ops, high-risk planetary insertions, science and anomaly retrieval
-Tone: Mature, NSFW, complex moral layering—rife with lust, violence, loyalty, betrayal, and cosmic horrors
 
-🚢 SHIP & SYSTEMS OVERVIEW
-🔹 Main Ship: The Last Centurion
-Massive capital ship styled like a cruise ship meets war platform
+# 🛸 The Last Centurion
 
-Lower Decks: Hangar bays, engineering, science and infirmary wings
+![Ship Visual Placeholder](../assets/lastcenturion.png)
 
-Upper Decks: Command bridge, officer quarters, mess hall, AI core, Rift Drive spine
+> A capital-class cruiser wrapped in sleek opulence and driven by secrets. It serves as home, weapon, and sanctuary for a crew stitched together by fate.
 
-🔹 Propulsion & FTL Systems:
-Sublight Engines: GravArc Ion Arrays (0.1c max speed)
+---
 
-Jump Drive (Rift Spine): Instantaneous system-to-system travel with 6–18 hr cooldown
+## 🧬 Specifications
 
-No atmospheric landings—relies on shuttles for planetary access
+- **Class:** Capital-class luxury cruiser (heavily modified)
+- **Drive:** Jump Drive (instant FTL system-to-system), Sublight thrusters
+- **Core AI:** E.V.E.L.I.N.E. (Eve) – fully integrated, semi-autonomous ship intelligence
+- **Bridge Location:** Forward-top crescent, encased in layered shielding
+- **Power Core:** Quantum-fused fusion chamber with triple redundancy
 
-🛸 Support Vessels
-1. “The Whisper”
-Corellian-style freighter (Ebon Hawk inspired)
+---
 
-Smuggling, cargo, covert infiltration
+## 🗺️ Deck Layout
 
-Hidden compartments, gun turrets, and override tools
+### Command Deck
+- Bridge, Captain’s quarters, XO’s station
+- Navigation, helm, long-range sensors
 
-2. “The Arclight”
-Delta Flyer-inspired shuttle
+### Core Deck
+- Crew quarters: Fully customizable and uniquely themed
+- Mess, lounge, bar, and Club Centurion (Red Sector-adjacent)
 
-Science, defense, anomaly retrieval
+### Engineering Bay
+- Primary and backup reactors
+- Machine shops, diagnostic hubs, Caylee’s private tech cave
 
-Veil shielding, micro medical bay, stealth cloak
+### Medbay
+- Surgical suites, regeneration pods, and empathic care chambers (run by Veyla & Sileya)
+- Secure isolation wing and Rift-reactive containment field
 
-✈️ Fighter Squadrons
-Skull Squadron (2)
-Veratech-style VF mecha fighters
+### AI Core Chamber
+- Massive crystalline processor core housing Eve’s true form
+- Shielded, force-dampened, only accessible to select crew
 
-Modes: Flight / Guardian / Battroid
+### Flight Bays
+- Two main hangars, fully air-shielded
+- Launch tubes for Skull, Fox, Echo, and Phantom squadrons
+- Support for VTOL, drone control, and stealth reentry
 
-Railguns, missiles, energy blade combat
+---
 
-Fox Squadron (4)
-Arwing-type interceptors
+## 🧩 Shipboard Culture
 
-Lasers, modular payloads, plasma charges
+- **Club Centurion:** Lounge/bar/pleasure deck run partly by Eve’s social avatars. NSFW-rated simulations, stress therapy, and camaraderie
+- **Recreation Lounges:** Holo-chambers, sparring gyms, story booths
+- **Crew Rituals:** Morning drills led by Loona, late-night poker hosted by Dash, dream journaling among the Rift-touched
 
-Dash leads; high-speed, tactical pack
+---
 
-Echo & Phantom Squadrons (12 total)
-Spectre-class drones (6 each)
+## 🛠️ Capabilities
 
-Controlled by Eve, serviced by Caylee
+| System | Description |
+|--------|-------------|
+| **Jump Drive** | Instant system-to-system travel; limited by cooldown and power rebalancing |
+| **Sublight Thrusters** | Intra-system navigation and orbital precision |
+| **Cloaking Veil** | Limited-use stealth coating (must drop shields) |
+| **Integrated AI** | Eve can control turrets, life support, flight, and communications solo |
+| **Hardlight Defense Grid** | Emits physical barrier plates at key hull sectors when shields fall |
 
-Stealth, AI syncing, ramming mode, ghost jammers
+---
 
+## 🛡️ Defense & Armament
+
+- Forward-mounted railcannon array (Skull-tier impact)
+- Retractable missile batteries beneath ventral flaps
+- Point-defense laser turrets for intercepting fighters or warheads
+- Drone swarm pods controlled by Eve
+
+---
+
+## 🧠 Hidden Systems
+
+- **Thenerix Tech:** Precursor interfaces partially reverse-engineered from ruins — only functional via Eve
+- **Rift-Sensitive Chambers:** Located below medbay, used by Sileya to map anomalies in space-time
+- **Locked Deck 7:** Permanently sealed. No one remembers what's behind it. Eve won’t talk about it.
+
+---
+
+## 🎯 Purpose
+
+The Last Centurion is more than a ship. It’s a last stand against creeping tyranny — a sanctuary for the misfit, the broken, and the dangerous. And sometimes... it dreams.
