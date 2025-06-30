@@ -2,9 +2,80 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Alexandra Dash – The Last Centurion</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Caylee Jay – The Last Centurion</title>
   <link rel="stylesheet" href="../style.css">
+  <style>
+    body {
+      font-family: 'Orbitron', sans-serif;
+      background-color: #0a0a0f;
+      color: #eee;
+      margin: 0;
+      padding: 2rem;
+    }
+    header {
+      background-color: #111;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 2rem;
+      border-bottom: 2px solid #2f2f4f;
+    }
+    header h1 {
+      font-size: 1.8rem;
+      margin: 0;
+    }
+    nav a {
+      color: #89b4f8;
+      text-decoration: none;
+      margin-left: 1.5rem;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #f28f8f;
+    }
+    img.profile {
+      width: 100%;
+      max-width: 300px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+    }
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #1a1a2e;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+    }
+    h2 {
+      color: #ff55aa;
+      margin-top: 1.5rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    table, th, td {
+      border: 1px solid #444;
+    }
+    th, td {
+      padding: 0.5rem;
+      text-align: left;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 8px;
+      object-fit: cover;
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -17,8 +88,8 @@
       <a href="/last-centurion/red-sector/">Red Sector</a>
     </nav>
   </header>
-  <main>
-    <section class="crew-profile">
+
+  <section>
       <h2>👤 Alexandra Dash</h2>
       <img src="../assets/dash.jpg" alt="Alexandra Dash">
       <p><strong>Species:</strong> Anthro Wolf<br>
@@ -82,6 +153,5 @@
         <img src="../assets/dash3.jpg" alt="Dash in casual wear">
       </div>
     </section>
-  </main>
 </body>
 </html>
