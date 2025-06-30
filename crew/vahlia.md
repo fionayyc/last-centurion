@@ -1,50 +1,71 @@
-🧬 Dr. Vahlia Rhys
-Species: Viera
-Age: 38
-Role: Chief Medical Officer, Cybernetic Surgeon, Molecular Biologist
-Fur/Eyes: Ash-grey fur with glacial teal eyes, always half-lidded from long hours. Long, braided ears adorned with surgical tools and memory pins.
-Demeanor: Dry, elegant, unshakeable. Cold hands, colder wit.
+# 👤 Vahlia "Veyla" Saryn
 
-🧠 Core Profile
-Dr. Vahlia Rhys is one of the galaxy’s most advanced specialists in cyber-biological integration—a pioneer of surgical techniques that bond living flesh to synthetic structures at a molecular level. She is an atheist, a biologist, and a fiercely rational woman in a ship filled with mysticism and chaos.
+![Vahlia](../assets/vahlia.jpg)
 
-Strengths:
-Cybernetic installation and repair, including neural ports and exo-spinal systems.
+**Species:** Elf-like (psychic prodigy)  
+**Role:** Nurse, Seer, Medical Empath  
+**Appearance:** Petite and graceful, glowing teal eyes, wears a minimalist uniform lined with neural feedback nodes  
+**Style:** Always barefoot aboard ship, often surrounded by low-light ambient auras when in deep diagnostic mode
 
-Genetic surgery and cloning adaptation.
+---
 
-Emergency field trauma work—performed open heart surgery in zero-g with a knife and a shoelace once.
+## 🌙 Personality Snapshot
 
-Weaknesses:
-Extremely dismissive of anything “mystical” or “Veil-related”.
+Veyla speaks softly, sees deeply, and rarely smiles unless she means it. She feels the pain of others—literally—and channels that into healing, visions, and protection. While outwardly calm, she carries the constant weight of foresight.
 
-Terrible bedside manner.
+- **Alignment:** Neutral good  
+- **Tone:** Gentle, intense, occasionally cryptic  
+- **Psychic Profile:** Touch-based diagnostic empathy, precognitive spikes  
+- **Mental Health:** Monitored closely by Sierra, due to bleedover from crew trauma
 
-Protective to the point of arrogance when it comes to her sister.
+> *“The wound isn’t always where the blood spills. Sometimes it’s where the silence grows.”*
 
-🧬 Personal History
-Vahlia was a child prodigy on the pristine med-world Erytheia, where Viera scientists held a monopoly on high-end surgery. She rose to lead Organica Labs, a private medical syndicate with military ties—until a contract came through to study and dissect captured Force-sensitives.
+---
 
-That was when her younger sister, Sileya, touched her forehead one night and said, in a tremble:
+## 🧠 Abilities & Skills
 
-“If you take that job… you die.”
+| Ability                    | Detail                                                                 |
+|----------------------------|-------------------------------------------------------------------------|
+| **Empathic Diagnosis**     | Can touch a patient and “feel” what’s wrong, including non-physical causes |
+| **Precognitive Bursts**    | Short flashes of near-future probability under stress                   |
+| **Surgical Support**       | Enhances Sierra’s precision with realtime emotional-biological feedback |
+| **Dream Echo Mapping**     | Sometimes walks through others’ dreams in her sleep—accidentally         |
 
-Vahlia laughed. Then, on the eve of deployment, their lab was bombed by a Dominion rebel cell. Everyone died except her and Sileya—who had already smuggled her out.
+---
 
-Shaken, scarred, and hunted by both her former employers and surviving clients, Vahlia fled. She offered her services to The Last Centurion in exchange for amnesty and protection—and a chance to keep Sileya off any radar, ever again.
+## 🧬 Background & Origin
 
-🧪 Equipment & Methods
-Scalpel Gauntlet: A wrist-worn surgical AI with deployable microtools and nano-suture filaments.
+Born in the same enclave as her sister Sierra, Vahlia was identified early as a psychic anomaly. Dominion agents tried to claim her for experimentation; Sierra risked everything to flee with her. Since then, Veyla has lived in near-constant shielding—both physical and psychic.
 
-Augmented Monocle: For magnified diagnostics and data overlays; doubles as a neural reader for prosthetic calibration.
+She’s chosen to remain on *The Last Centurion* because, for once, the future isn’t just something to fear—it’s something to protect.
 
-Custom Medkits: Carried in layered pouches—each color-coded by field priority (Red = hemorrhage, Blue = organ trauma, Green = cyber mod).
+---
 
-“I don't need your ‘energy aura reading’, I need three liters of hemofab and a steady damn table.”
+## 🚀 Why She’s Aboard
 
-🩺 Relationship with the Crew
-Derrian Wolfe: Constant ideological friction. She sees his Force-driven instincts as guesswork romanticized by cultists. He respects her skill, but they clash frequently. (Unspoken attraction? Maybe. Buried deep.)
+She stabilizes the crew not just medically, but emotionally. She brings foresight, comfort, and a strange kind of sacred presence to the ship. Veyla might not carry weapons, but every member of the crew would go to war to defend her.
 
-Alexandra Dash: Gets along surprisingly well—they bond over tech, sarcasm, and mutual disbelief in space wizards.
+---
 
-Eve: Intrigued by Eve’s sentience. They debate constantly about “code vs. consciousness.” Eve admires her intellect but pokes at her coldness.
+## 🤝 Relationships On Board
+
+- **Sierra:** Her older sister, protector, and only anchor in the darkest storms.
+
+- **Derrian Wolfe:** She trusts his presence—his Force harmonizes strangely with her gifts.
+
+- **Eve:** They don’t speak often… but Veyla *knows* when Eve is near, and Eve has begun to ask her questions no AI should know to ask.
+
+- **Caylee Jay:** They’re friends, in a weird misfit way. Caylee built her a music cube that adapts to her neural rhythms.
+
+- **Seraphim Katt:** Veyla once read something in her past that made her cry. She’s never told Seraphim what it was.
+
+---
+
+## 🧩 Secrets, Hooks & Plot Seeds
+
+- Veyla’s empathy is beginning to reach beyond the ship—she dreams of strangers, of events not yet triggered.
+
+- Dominion psionic trackers are still trying to locate her; her aura occasionally pings hidden satellites.
+
+- She may not be just psychic—there are signs she’s connected to *something older*, buried deep in Riftspace.
+
