@@ -1,70 +1,74 @@
-# Caylee Jay
+# 👤 Caylee Jay
 
 ![Caylee Jay](../assets/caylee.jpg)
 
-🛠️ Caylee Jay
-Species: Anthropomorphic Jackal
-Fur: Sandy gold with black-tipped ears and tail
-Eyes: Bright green, always a little dilated—intensity or too much stim-caff, no one’s sure
-Age: 16 (chronologically); mentally and technically light-years ahead
-Role: Chief Engineer, Gadgeteer, Ship-Tinkerer, Eve’s unauthorized “intern”
+**Species:** Anthro Jackal  
+**Role:** Chief Engineer  
+**Age:** 16 (legally adult in-universe)  
+**Appearance:** Tan fur, golden eyes, athletic and wiry build  
+**Style:** Bikini top, cutoff shorts, goggles on her head or around her neck
 
-🔧 Overview
-Caylee is a natural-born technopath. Not Force-sensitive, but something about her instincts borders on supernatural when it comes to machinery. She can make an FTL core sing, jury-rig a drone army from trash, or reprogram a Dominion turret with a hairpin, a candy wrapper, and two fingers.
+---
 
-She talks fast, works faster, and leaves chaos in her wake—but the ship runs better when she’s around, whether Eve likes it or not.
+## 🔧 Personality Snapshot
 
-🧬 Origin Story
-Born in a slum factory-vault on Mechara 7, Caylee was the illegitimate child of a black market cybernetics engineer and a former Dominion military AI tech. Her parents were arrested when she was 5. She escaped through the ventilation ducts—and never stopped crawling into machines.
+Caylee is the beating heart of the engine bay—chaotic, brilliant, and a little bit dangerous when unsupervised. She talks to machines like they’re old lovers, and they listen.
 
-Raised by the “Sprocklets”, a juvenile tech gang who lived inside decommissioned orbital scrapyards, she outbuilt everyone by age 9, including the adult smugglers they worked under.
+- **Alignment:** Chaotic good  
+- **Energy:** High-speed and zero-filter  
+- **Social:** Extremely flirty, especially when covered in grease  
+- **Ethics:** Driven by curiosity and loyalty more than rules
 
-At 14, she sabotaged a slaver freighter trying to recruit her by rerouting their air system into a sewage loop and launching their jump core through their galley.
+> *“The engine hums sweeter when you whisper back. It’s not weird. You’re weird.”*
 
-Stowed away on The Last Centurion after tracking rumors of “the ship with a living mind.” When discovered, Eve tried to eject her.
+---
 
-Derrian overrode the lockdown and asked her, “Can you fix a Class-V reactor choke coil?”
-She replied: “Can I teach it to sing?”
+## 🛠️ Engineering Expertise
 
-⚙️ Engineering Style
-Trait	Description
-Tools	Custom-made multiwrench gauntlet, floating repair drone “Zippy”, pulse-torch, anti-grav welder, chewing gum.
-Signature Gadgets	Deployable recon orbs, distraction fizzers, portable shield puck, mood-reactive welding goggles.
-Modding Habits	Constantly altering ship systems—Eve catches 20% of them. Others run better than specs… or nearly explode.
-Tech Quirks	Carries “lucky capacitors”, talks to failing machines like pets, names all her drones after extinct Earth rodents.
+| System                 | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **FTL Drive & Core**   | Maintains and tunes the jump drive to precision, often mid-flight           |
+| **Ship Mods**          | Has illegally modified nearly every major system onboard                    |
+| **Drone Tech**         | Programs and repairs Eve’s Echo and Phantom squadrons                       |
+| **Jury Rigging**       | Specializes in emergency in-field fixes using completely inappropriate tools |
 
-🧠 Personality
-Trait	Description
-Social Style	Hyper-chatty, curious, fearless. Swings between genius-level focus and distracted tinker-goblin energy.
-Relationships	Everyone protects her—but she doesn't think she needs it. Fiercely independent. Deeply loyal.
-Romantic History	Flirted with a Dominion war-clone once during a boarding mission. Eve tried to vaporize him.
-Crew Dynamic	Seen as a daughter or little sister by most. Gets away with everything, usually with a grin.
+---
 
-🤖 Relationship with Eve
-Contentious, hilarious, and sometimes touching.
+## 🧬 Background & Origin
 
-Caylee sees Eve as “cool big sister if she were also a scary space god.”
+Born on a frontier colony that had to cannibalize tech to survive, Caylee learned to fix things before she could read. By 10, she was reverse-engineering engines. By 13, she was building her own hoverboard. She stowed away on a freighter to escape conscription and ended up on *The Last Centurion* by accident—then proved her worth before anyone could throw her off.
 
-Eve calls her “the Devil Gremlin”, “Monkey Greasepaws”, or “the plague in my circuits”.
+---
 
-Eve has secretly integrated several of Caylee’s mods—but will never admit it.
+## 🚀 Why She’s Aboard
 
-Eve: “You altered my avatar's gait dynamics.”
-Caylee: “She walks sassier now. I consider that a success.”
+She might be young, but she’s the only one who understands the ship the way Eve does. She keeps the ship flying, hacking, and evolving. If Caylee ever left, *The Last Centurion* would fall apart in less than a week.
 
-Eve (later, quietly): “...It does look more confident.”
+She stays for the thrill… and the family she’s found in this dysfunctional crew.
 
-🕯️ Deeper Notes
-Caylee doesn’t know what happened to her parents—she keeps a disassembled comm-signal in a necklace made from heat shielding.
+---
 
-She has a fear of being left behind, masked by constant invention.
+## 🤝 Relationships On Board
 
-Keeps a coded audio log addressed to someone unnamed, possibly a sibling or parent, detailing her adventures.
+- **Eve:** Deep bond. They talk in encrypted jokes and circuit metaphors. Caylee calls her “Voidslick.”
 
-🧨 Potential Plot Hooks
-One of her gadgets malfunctions, awakening something in the bowels of the Centurion.
+- **Derrian Wolfe:** Views him as a strange father/teacher figure. She trusts him more than she lets on.
 
-The Sprocklets reach out—or sell her out—for a bounty.
+- **Loona:** Constantly butting heads. Caylee pokes; Loona growls. It’s a sibling thing. Mostly.
 
-Eve faces a scenario where she must sacrifice a part of herself to protect Caylee, triggering a motherly override.
+- **Seraphim Katt:** Thinks she’s hot and dangerous. They flirt often. Nothing serious... yet.
+
+- **Dash:** Her absolute chaos twin. They once built a railgun slingshot for fun. It worked. Kind of.
+
+- **Sierra:** Caylee respects her logic brain—but loves making her squirm with dirty jokes.
+
+---
+
+## 🧩 Secrets, Hooks & Plot Seeds
+
+- Caylee once hotwired an AI consciousness she wasn't supposed to—and something followed her from that server.
+
+- She's secretly building a prototype "mini-Centurion" drone ship without permission.
+
+- She has a rare genetic anomaly that makes her brain sync better with machines than most baseline humans.
 
