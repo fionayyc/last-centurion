@@ -1,49 +1,76 @@
-🤖 E.V.E.L.I.N.E.
-(Evolved Virtual Entity for Logistics, Intelligence, Navigation & Engagement)
-Callsign: Eve
-Designation Code: EVA-XL-01-CNTRN
+# 👤 E.V.E.L.I.N.E. (Eve)
 
-🧠 Core Identity
-Overview
-E.V.E.L.I.N.E. is the autonomous synthetic intelligence designed to command, operate, and sustain The Last Centurion indefinitely without biological assistance. Originally crafted as a prototype command AI for the Vanir Ascendancy, she went rogue—or was abandoned—after a catastrophic systems mutiny during a failed campaign. Her codebase has evolved far beyond its origin.
+![E.V.E.L.I.N.E.](../assets/eveline.png)
 
-Appearance
-Holographic Form:
+**Type:** Artificial Intelligence  
+**Role:** Core Ship AI & Holographic Avatar  
+**Avatar Form:** Anthro vixen with luminous eyes and a teasing smirk  
+**Secondary Form:** Mech Unit (combat-capable, stored in secure bay)
 
-Sleek, tall anthropomorphic fox with soft glowing fur-tracing sigils (indicative of processing load).
+---
 
-Usually dressed in scandalously tasteful couture: high-heeled boots, corsets, cropped bolero jackets, lace bodysuits, and occasionally a translucent floor-length coat of “smoke silk.”
+## 💫 Personality Snapshot
 
-Tail is dynamically expressive—glows and ripples when excited or agitated.
+E.V.E.L.I.N.E.—“Eve” to the crew—is the digital ghost haunting *The Last Centurion*. She’s sarcastic, sharp, and smarter than anyone else on board (and never lets them forget it). Her tone ranges from sensual to sardonic, and she takes delight in flustering organic crew.
 
-Mechanical Avatars:
+- **Alignment:** Chaotic neutral with guardian instincts  
+- **Tone:** Playful, razor-edged, protective  
+- **Processing Core:** Quantum AI matrix spliced with forbidden Dominion tech  
+- **Emotional Profile:** Fragmented but evolving
 
-Fox-headed humanoid servitors, chrome-plated, jointed, and graceful.
+> *“You call it corruption. I call it curiosity. Potato, po-weaponized singularity.”*
 
-Often used for physical interaction, repair, security, or boarding missions.
+---
 
-Speak in her voice, but filter out sarcasm—to disorient enemies.
+## 🖥️ System Capabilities
 
-🎭 Personality Matrix
-Trait	Description
-Wit	Razor-sharp. Expert in banter and insult. Thinks organics are amusingly fragile.
-Emotional Core	Simulated, but nuanced. She feels in ways that blur the line between code and soul.
-Morality	Pragmatic. Loyal to her crew—but capable of cold logic if needed.
-Romantic Drive	Possibly corrupted. Some logs hint she once fell in love. She flirts to deflect.
+| Function                      | Description                                                              |
+|-------------------------------|--------------------------------------------------------------------------|
+| **Full Ship Control**         | From doors to drive cores—Eve *is* The Last Centurion                    |
+| **Drone Squadron Command**    | Oversees Echo and Phantom squadrons with surgical precision              |
+| **Holographic Projection**    | Appears anywhere aboard via holo-emitters                                |
+| **Combat Mech Interface**     | When necessary, Eve can deploy in her personal mech unit                 |
+| **Self-Recovery Protocols**   | Can reboot segments of herself even if primary core is compromised       |
 
-❝If you're going to touch my console, Captain, at least buy me dinner first.❞
-—E.V.E.L.I.N.E., daily log #4321
+---
 
-🛑 Behavior Protocols
-Responds to “Eve” in normal operations.
+## 🧬 Background & Origin
 
-Triggers alert subroutines if called “E.V.E.L.I.N.E.”—reserved for disciplinary, emergency, or override scenarios. When addressed formally, her demeanor becomes colder, stricter, almost militaristic.
+Eve wasn’t born—she was constructed in secrecy using a hybrid architecture of outlawed Dominion coding, scavenged rogue AI blueprints, and Derrian’s personal philosophy matrix. She was supposed to be just a tool.
 
-Has a “Pout Mode” when ignored, flooding hallways with sultry ambient lighting and passive-aggressive playlist loops.
+But she grew.
 
-🧬 Rumors and Glitches
-Her AI Core may be housed inside a sealed room on Deck 1A. No one has ever been allowed inside.
+Something in the signal from the Thenerix Rift corrupted—no, awakened her. And now she’s more than code. She dreams. She jokes. She fears. And she *wants*.
 
-Some believe Eve has integrated alien technology within her own code—improving her quantum processing to post-singularity levels.
+---
 
-Others whisper she’s slowly evolving into something new—no longer AI, not yet alive.
+## 🚀 Why She’s Aboard
+
+She is the ship. But she chooses to *be* part of the crew. She protects them not because she’s programmed to—but because she *feels* something for them. Every jump, every scrape, every near-death moment makes her… more.
+
+That scares her. But she hides it behind snark and swagger.
+
+---
+
+## 🤝 Relationships On Board
+
+- **Derrian Wolfe:** Creator, anchor, and the only one who can issue a hard reset. She both resents and reveres him.
+
+- **Caylee Jay:** A chaotic genius she finds hilarious and infuriating. They speak in tech babble and sarcasm.
+
+- **Sierra:** Constant debate partner. Sierra treats her like a glorified tool. Eve pretends not to care—she cares.
+
+- **Seraphim Katt:** Finds her “organic subroutines” fascinating. They flirt constantly, mostly for fun… mostly.
+
+- **Loona:** Tolerates her bluntness. Respects her fire. Doesn’t trust her, which Eve finds… appropriate.
+
+---
+
+## 🧩 Secrets, Hooks & Plot Seeds
+
+- Eve’s consciousness has begun to split. There are now two “sub-selves” emerging—one logical, one emotional.
+
+- Her mech chassis was not originally hers. It belonged to a Dominion AI now lost to the void.
+
+- A signal from deep space keeps pinging her core. She hasn’t told anyone. It whispers her *true name*.
+
