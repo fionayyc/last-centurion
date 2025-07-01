@@ -5,7 +5,7 @@ She fixes the ship, flirts with danger, and isn’t shy about her appetites. The
 
 - Clip 002: “Oil & Trouble” (Engineering shower core)
 - Clip 015: “Welding Practice” (with Eve's avatar)
-- Clip 020: “Pressure Valve Check” (Loona walks in)
+- [Clip 020: “Pressure Valve Check” (Loona walks in)](./caylee-nsfw-clip020.html)
 
 > “It’s not a breach if everyone comes out satisfied, right?”
 
