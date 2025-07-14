@@ -1,6 +1,6 @@
-# 👤 Derrian Wolfe
+# 👤 Kaidan Wolfe
 
-![Derrian Wolfe](../assets/derrian.png)
+![Kaidan Wolfe](../assets/derrian.png)
 
 **Species:** Kitsune (Anthro Fox)  
 **Role:** Captain of *The Last Centurion*, Force-sensitive  
@@ -11,7 +11,7 @@
 
 ## 🧭 Personality Snapshot
 
-Derrian is the calm in the storm—and sometimes the storm himself. He leads with principle and restraint, holding the crew together through trust, respect, and the occasional glare that silences a room.
+Kaidan is the calm in the storm—and sometimes the storm himself. He leads with principle and restraint, holding the crew together through trust, respect, and the occasional glare that silences a room.
 
 - **Alignment:** Lawful good with strong internal conflict  
 - **Temperament:** Stoic, patient, carries the weight of past failures  
@@ -35,7 +35,7 @@ Derrian is the calm in the storm—and sometimes the storm himself. He leads wit
 
 ## 🧬 Background & Origin
 
-Derrian Wolfe was born on a frontier world lost in the Rift Wars. Recruited into the Force Order early, he was never fully aligned with their teachings. He survived the fall of the order, escaped the Dominion, and carved his path through warzones, underworlds, and black ops projects until he found something worth leading—a ship with a soul, and a crew that could become more.
+Kaidan Wolfe was born on a frontier world lost in the Rift Wars. Recruited into the Force Order early, he was never fully aligned with their teachings. He survived the fall of the order, escaped the Dominion, and carved his path through warzones, underworlds, and black ops projects until he found something worth leading—a ship with a soul, and a crew that could become more.
 
 ---
 
@@ -104,8 +104,8 @@ In close quarters, he is blindingly fast, but only engages when cornered or forc
 
 ## 🧩 Secrets, Hooks & Plot Seeds
 
-- Derrian’s lightsaber was once red. It changed after he abandoned a dark path—one that still calls to him in dreams.
+- Kaidan’s lightsaber was once red. It changed after he abandoned a dark path—one that still calls to him in dreams.
 
-- He’s being hunted by a Force-wraith known as **The Hollowed Flame**, who claims Derrian stole his destiny.
+- He’s being hunted by a Force-wraith known as **The Hollowed Flame**, who claims Kaidan stole his destiny.
 
 - The Last Centurion wasn’t his first command. His last ship was destroyed under suspicious circumstances—and he’s never spoken of it.
