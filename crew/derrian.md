@@ -1,6 +1,6 @@
 # 👤 Kaidan Wolfe
 
-![Kaidan Wolfe](../assets/derrian.png)
+![Kaidan Wolfe](../assets/kaiden1.jpg)
 
 **Species:** Kitsune (Anthro Fox)  
 **Role:** Captain of *The Last Centurion*, Force-sensitive  
