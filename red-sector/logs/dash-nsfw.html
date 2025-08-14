@@ -78,10 +78,11 @@
         <div class="overflow-hidden rounded-2xl border border-zinc-800 bg-zinc-900/60">
           <!-- ===== PLACEHOLDER FOR PORTRAIT IMAGE ===== -->
           <!-- Replace the div below with an <img src="path/to/dash-portrait.jpg" alt="Alexandra Dash portrait"> -->
-          <div class="aspect-[4/5] bg-zinc-800 grid place-items-center text-zinc-500">
-            <img src="../assets/images/redsector/dash2-nsfw.jpg" alt="Alexandra Dash portrait"1>
-            <span class="text-sm">Portrait Placeholder — Dash</span>
-          </div>
+<picture class="block aspect-[4/5] bg-zinc-800">
+  <source srcset="assets/images/redsector/dash-nsfw.jpg" type="image/webp" />
+  <img src="assets/images/redsector/dash-nsfw.jpg" alt="Alexandra Dash — Red Sector portrait" loading="lazy" decoding="async" class="h-full w-full object-cover" />
+</picture>
+
 
           <dl class="divide-y divide-zinc-800">
             <div class="flex items-center justify-between px-4 py-3">
