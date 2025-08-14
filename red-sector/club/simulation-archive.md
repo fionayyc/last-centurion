@@ -13,9 +13,9 @@ All simulations are opt-in and logged only by biometric key. These files represe
 
 | Title | Participants | Description |
 |-------|--------------|-------------|
-| **Scenario 7A: The Shadow Duel** | Loona / Seraphim | Combat tension becomes something far less restrained in the middle of a power cut. |
+| **Scenario 7A: The Shadow Duel** | Kayla / Seraphim | Combat tension becomes something far less restrained in the middle of a power cut. |
 | **Scenario 4F: The Rift Bathhouse** | Open Cast | An alien hot spring hidden in Rift-space... steamy, surreal, and euphoric. |
-| **Scenario 13C: The Captain’s Quarters (Unlocked)** | Derrian / User | Private command fantasy. Respect, discipline... then heat. |
+| **Scenario 13C: The Captain’s Quarters (Unlocked)** | Kaiden / User | Private command fantasy. Respect, discipline... then heat. |
 | **Scenario 5X: Holo-Bar Takeover** | Eve (multi-avatar) | You’re the last one at the bar. The bartender has thoughts. Many bodies. |
 | **Scenario 21R: Shuttle Drift** | Dash / Caylee | A floating transport. No one’s watching. Zero-g doesn’t stop friction. |
 
