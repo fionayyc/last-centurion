@@ -51,7 +51,7 @@ She stabilizes the crew not just medically, but emotionally. She brings foresigh
 
 - **Sierra:** Her older sister, protector, and only anchor in the darkest storms.
 
-- **Derrian Wolfe:** She trusts his presence—his Force harmonizes strangely with her gifts.
+- **Kaiden Wolfe:** She trusts his presence—his Force harmonizes strangely with her gifts.
 
 - **Eve:** They don’t speak often… but Veyla *knows* when Eve is near, and Eve has begun to ask her questions no AI should know to ask.
 
