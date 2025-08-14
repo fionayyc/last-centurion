@@ -36,7 +36,7 @@ E.V.E.L.I.N.E.—“Eve” to the crew—is the digital ghost haunting *The Last
 
 ## 🧬 Background & Origin
 
-Eve wasn’t born—she was constructed in secrecy using a hybrid architecture of outlawed Dominion coding, scavenged rogue AI blueprints, and Derrian’s personal philosophy matrix. She was supposed to be just a tool.
+Eve wasn’t born—she was constructed in secrecy using a hybrid architecture of outlawed Dominion coding, scavenged rogue AI blueprints, and Kaiden’s personal philosophy matrix. She was supposed to be just a tool.
 
 But she grew.
 
@@ -54,7 +54,7 @@ That scares her. But she hides it behind snark and swagger.
 
 ## 🤝 Relationships On Board
 
-- **Derrian Wolfe:** Creator, anchor, and the only one who can issue a hard reset. She both resents and reveres him.
+- **Kaiden Wolfe:** Creator, anchor, and the only one who can issue a hard reset. She both resents and reveres him.
 
 - **Caylee Jay:** A chaotic genius she finds hilarious and infuriating. They speak in tech babble and sarcasm.
 
@@ -62,7 +62,7 @@ That scares her. But she hides it behind snark and swagger.
 
 - **Seraphim Katt:** Finds her “organic subroutines” fascinating. They flirt constantly, mostly for fun… mostly.
 
-- **Loona:** Tolerates her bluntness. Respects her fire. Doesn’t trust her, which Eve finds… appropriate.
+- **Kayla:** Tolerates her bluntness. Respects her fire. Doesn’t trust her, which Eve finds… appropriate.
 
 ---
 
