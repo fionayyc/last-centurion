@@ -47,7 +47,7 @@ He commands *The Last Centurion* not out of pride—but out of duty. The galaxy 
 
 ## 🤝 Relationships On Board
 
-- **Loona Virex:** Volatile history. Former lovers. Mutual respect wrapped in sharp tension. She's his blade, even when she cuts too close.
+- **Kayla Jade:** Volatile history. Former lovers. Mutual respect wrapped in sharp tension. She's his blade, even when she cuts too close.
 
 - **Seraphim Katt:** He sees through her masks, but not always through her eyes. He respects her skill and distrusts her methods.
 
