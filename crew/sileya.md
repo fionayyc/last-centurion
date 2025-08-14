@@ -51,7 +51,7 @@ She’s not here for war or exploration—she’s here to protect. She cares dee
 
 - **Sierra:** Her big sister, anchor, and shield. Sileya loves her deeply but fears Sierra will break herself trying to protect her.
 
-- **Derrian Wolfe:** His presence steadies her. She sees tangled fates around him—but she never shares them.
+- **Kaiden Wolfe:** His presence steadies her. She sees tangled fates around him—but she never shares them.
 
 - **Eve:** Their interactions are strange; Eve’s digital nature fascinates her empathic senses. She dreams of fragments in Eve's voice.
 
