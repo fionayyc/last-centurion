@@ -3,6 +3,7 @@
 
 She fixes the ship, flirts with danger, and isn’t shy about her appetites. These private logs were... borrowed... from an encrypted backchannel Caylee never meant to share.
 
+- [Clip 001: "Lubrication & Lightning" (Engineering Bay)](./caylee-nsfw-clip001.html)
 - Clip 002: “Oil & Trouble” (Engineering shower core)
 - Clip 015: “Welding Practice” (with Eve's avatar)
 - [Clip 020: “Pressure Valve Check” (Loona walks in)](./caylee-nsfw-clip020.html)
