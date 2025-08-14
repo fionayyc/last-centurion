@@ -53,11 +53,11 @@ She stays because the ship offers protection for Veyla—and a frontier of unkno
 
 - **Veyla (her sister):** Fierce protector. Would do anything to keep her safe, even defy her own logic.
 
-- **Derrian Wolfe:** Ongoing tension. She respects his leadership but mistrusts his Force reliance.
+- **Kaiden Wolfe:** Ongoing tension. She respects his leadership but mistrusts his Force reliance.
 
 - **Caylee Jay:** Baffling and brilliant. Sierra treats her like a rogue particle: uncontainable, but fascinating.
 
-- **Loona:** Mutual respect. Sierra knows Loona would die for the crew—but thinks she needs therapy.
+- **Kayla:** Mutual respect. Sierra knows Loona would die for the crew—but thinks she needs therapy.
 
 - **Eve:** Professional collaboration with passive-aggressive undertones. Sierra treats her as a program; Eve takes it personally.
 
