@@ -8,6 +8,7 @@ Dash flies like she fucks — fast, intense, and always with a smirk. These logs
 - Confession 21A: “Sim Drift & Drifted In” (with Caylee, neural uplink active)
 
 - [Private Log 00: "Everyone should be sleeping"](./dash-prive-log.html)
+  - [Private Log 01: "Morning after - Excerpt"](./dash-priv-log-01.html)
 
 > “Catch me? Good. Now try keeping up.”
 
