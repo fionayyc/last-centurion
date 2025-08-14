@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Red Sector // Main Hub</title>
+  <!-- If your global CSS is one level up, keep this path. Otherwise switch to ./assets/style.css -->
+  <link rel="stylesheet" href="../assets/style.css">
+  <style>
+    body.red-sector { margin:0; padding:0; background:#1a0000; color:#ffe6e6; font-family:'Orbitron', system-ui, sans-serif; display:flex; min-height:100vh; }
+    .sidebar { width:240px; background:#2d0000; padding:2rem 1rem; box-shadow:2px 0 10px #ff1a1a55; display:flex; flex-direction:column; gap:1.5rem; position:sticky; top:0; height:100vh; overflow:auto; }
+    .sidebar h2 { color:#ff4d4d; border-bottom:1px solid #ff4d4d66; padding-bottom:.5rem; font-size:1.1rem; letter-spacing:.08em; text-transform:uppercase; }
+    .sidebar a { color:#ff9999; text-decoration:none; font-weight:700; display:block; padding:.35rem 0; }
+    .sidebar a:hover { color:#ffffff; }
+    .content { flex:1; padding:2rem; }
+    h1 { color:#ff4d4d; text-align:center; margin:0 0 .5rem; letter-spacing:.06em; }
+    p.lead { text-align:center; margin:0 0 2rem; color:#ffd6d6; }
+
+    /* Rotating gallery */
+    .gallery { max-width:720px; margin:2rem auto; border:2px solid #ff4d4d88; box-shadow:0 0 20px #ff4d4d55; border-radius:12px; overflow:hidden; }
+    .gallery img { width:100%; display:block; border-radius:12px; aspect-ratio:16/9; object-fit:cover; }
+
+    /* Character roster grid */
+    .roster { max-width:1100px; margin:2.5rem auto; display:grid; grid-template-columns:repeat(auto-fill, minmax(180px, 1fr)); gap:18px; }
+    .card { position:relative; overflow:hidden; border-radius:12px; border:1px solid #ff4d4d66; background:#140000; transition:transform .2s ease, box-shadow .2s ease; }
+    .card:hover { transform:translateY(-3px); box-shadow:0 10px 30px #ff1a1a55; }
+    .card img { width:100%; height:240px; object-fit:cover; display:block; filter:saturate(1.1) contrast(1.05); }
+    .card .label { position:absolute; left:8px; bottom:8px; right:8px; background:linear-gradient(180deg, #0000, #0008 45%, #000b); color:#fff; padding:.5rem .6rem; border-radius:8px; font-weight:800; text-shadow:0 2px 6px #000; display:flex; justify-content:space-between; align-items:center; }
+    .label small { color:#ffaaaa; font-weight:700; letter-spacing:.04em; }
+    .grid-title { text-transform:uppercase; color:#ff8080; letter-spacing:.1em; text-align:center; margin-top:3rem; font-size:.9rem; }
+
+    /* Footer */
+    footer { text-align:center; margin:3rem auto 1rem; color:#ffb3b3; font-size:.8rem; opacity:.85; }
+  </style>
+  <script>
+    // Rotating gallery logic
+    let index = 0;
+    const images = [
+      "/last-centurion/assets/images/redsector/jenessa2-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/seraphim-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/loona-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/jenessa-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/caylee-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/sierra-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/dash-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/kaidan-nsfw.jpg",
+      "/last-centurion/assets/images/redsector/eve-nsfw.jpg"
+    ];
+    function rotateImage() {
+      const img = document.getElementById("gallery-image");
+      index = (index + 1) % images.length;
+      img.src = images[index];
+    }
+    window.addEventListener('DOMContentLoaded', () => {
+      const img = document.getElementById("gallery-image");
+      if (images.length) img.src = images[0];
+      setInterval(rotateImage, 5000);
+    });
+  </script>
+</head>
+<body class="red-sector">
+  <!-- Sidebar navigation -->
+  <aside class="sidebar">
+    <div>
+      <h2>Logs</h2>
+      <a href="./logs/kaidan-nsfw.html">Kaidan Wolfe</a>
+      <a href="./logs/caylee-nsfw.html">Caylee Jay</a>
+      <a href="./logs/seraphim-nsfw.html">Seraphim Katt</a>
+      <a href="./logs/loona-nsfw.html">Loona</a>
+      <a href="./logs/dash-nsfw.html">Alexandra Dash</a>
+      <a href="./logs/sierra-nsfw.html">Sierra</a>
+      <a href="./logs/jenessa-nsfw.html">Jenessa Nicole</a>
+      <a href="./logs/eve-nsfw.html">E.V.E.L.I.N.E.</a>
+    </div>
+
+    <div>
+      <h2>Club Centurion</h2>
+      <a href="./club/club-menu.html">Bar Menu</a>
+      <a href="./club/simulation-archive.html">Sim Archive</a>
+    </div>
+
+    <div>
+      <h2>Navigation</h2>
+      <a href="../index.html">↩ Return to Main Deck</a>
+    </div>
+  </aside>
+
+  <!-- Main content -->
+  <main class="content">
+    <h1>❤️‍🔥 Red Sector Hub</h1>
+    <p class="lead">Explore encrypted logs, synthetic indulgence, and pleasure protocols aboard the <em>Last Centurion</em>.</p>
+
+    <!-- Rotating gallery -->
+    <div class="gallery">
+      <img id="gallery-image" src="/last-centurion/assets/images/redsector/seraphim-nsfw.jpg" alt="NSFW Crew Preview" />
+    </div>
+
+    <!-- Character roster grid -->
+    <div class="grid-title">linked dossiers</div>
+    <section class="roster" aria-label="Character Dossier Grid">
+      <a class="card" href="./logs/kaidan-nsfw.html" aria-label="Open Kaidan Wolfe dossier">
+        <img src="/last-centurion/assets/images/redsector/kaidan-nsfw.jpg" alt="Kaidan Wolfe — NSFW profile cover" />
+        <div class="label"><span>Kaidan Wolfe</span><small>Captain</small></div>
+      </a>
+      <a class="card" href="./logs/caylee-nsfw.html" aria-label="Open Caylee Jay dossier">
+        <img src="/last-centurion/assets/images/redsector/caylee2-nsfw.jpg" alt="Caylee Jay — NSFW profile cover" />
+        <div class="label"><span>Caylee Jay</span><small>Chief Engineer</small></div>
+      </a>
+      <a class="card" href="./logs/seraphim-nsfw.html" aria-label="Open Seraphim Katt dossier">
+        <img src="/last-centurion/assets/images/redsector/seraphim3-nsfw.jpg" alt="Seraphim Katt — NSFW profile cover" />
+        <div class="label"><span>Seraphim Katt</span><small>Spy / Diplomat</small></div>
+      </a>
+      <a class="card" href="./logs/loona-nsfw.html" aria-label="Open Loona dossier">
+        <img src="/last-centurion/assets/images/redsector/loona-nsfw.jpg" alt="Loona — NSFW profile cover" />
+        <div class="label"><span>Loona</span><small>XO / Tactical</small></div>
+      </a>
+      <a class="card" href="./logs/dash-nsfw.html" aria-label="Open Alexandra Dash dossier">
+        <img src="/last-centurion/assets/images/redsector/dash3-nsfw.jpg" alt="Alexandra Dash — NSFW profile cover" />
+        <div class="label"><span>Alexandra Dash</span><small>Pilot</small></div>
+      </a>
+      <a class="card" href="./logs/sierra-nsfw.html" aria-label="Open Sierra dossier">
+        <img src="/last-centurion/assets/images/redsector/sierra-nsfw.jpg" alt="Sierra — NSFW profile cover" />
+        <div class="label"><span>Sierra</span><small>Science Officer</small></div>
+      </a>
+      <a class="card" href="./logs/jenessa-nsfw.html" aria-label="Open Jenessa Nicole dossier">
+        <img src="/last-centurion/assets/images/redsector/jenessa2-nsfw.jpg" alt="Jenessa Nicole — NSFW profile cover" />
+        <div class="label"><span>Jenessa Nicole</span><small>Asset</small></div>
+      </a>
+      <a class="card" href="./logs/eve-nsfw.html" aria-label="Open Eve dossier">
+        <img src="/last-centurion/assets/images/redsector/eve-nsfw.jpg" alt="E.V.E.L.I.N.E. — NSFW profile cover" />
+        <div class="label"><span>E.V.E.L.I.N.E.</span><small>AI</small></div>
+      </a>
+    </section>
+
+    <footer>© Red Sector Archives — The Last Centurion. Adults only (18+). Consent-first content.</footer>
+  </main>
+</body>
+</html>
