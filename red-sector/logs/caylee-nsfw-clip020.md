@@ -4,7 +4,7 @@
 **Location:** Engineering Bay 3  
 **Access Level:** Red Sector Clearance ALPHA-LOCK  
 **Timestamp:** 04:11 SCST (Ship's Core Standard Time)  
-**Participants:** Caylee (Confirmed), Loona (Entered mid-log)  
+**Participants:** Caylee (Confirmed), Kayla (Entered mid-log)  
 **Status:** Archived, Visual/Aural Sync Available  
 
 ---
@@ -21,13 +21,13 @@ As if summoned by the phrase, the doors slid open with a dry hiss.
 
 > "What exactly am I looking at"
 
-Loona's voice was a grow bemused, not angry. She leaned in the doorway, arms crossed, wearing a tank and combat sweats. The low light flickered against her piercing red eyes.
+Kayla's voice was a grow bemused, not angry. She leaned in the doorway, arms crossed, wearing a tank and combat sweats. The low light flickered against her piercing red eyes.
 
 Caylee rolled onto her back and grinned upside down at her.
 
 > "Redline test. Hands-on troubleshooting. Wanna supervise?"
 
-There was a pause. Loona entered the room without a word, the doors closing behind her.
+There was a pause. Kayla entered the room without a word, the doors closing behind her.
 
 The log becomes partially corrupted here. Audio remains:
 
@@ -45,7 +45,7 @@ The log becomes partially corrupted here. Audio remains:
 **System Note:** Engineering sensors reported an unexplained 0.05% rise in internal temp across Deck 2. Hydro-conduits required recalibration the following morning.
 
 **End Log.**  
-**Tag:** `#Caylee`, `#Loona`, `#RedSector`, `#NSFW`, `#EngineeringEncounters`
+**Tag:** `#Caylee`, `#Kayla`, `#RedSector`, `#NSFW`, `#EngineeringEncounters`
 
 ---
 
