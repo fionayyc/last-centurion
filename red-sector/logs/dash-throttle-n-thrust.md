@@ -30,7 +30,7 @@ Their mouths crashed, all teeth and tongues, spit-slick and hungry. Caylee bit D
 
 “Oh, you came ready,” Dash muttered, dragging two fingers down slick folds, teasing, smearing her own smirk in between. “Slut.”
 
-“Fuck me already,” Caylee panted. “Unless you wanna hear me call Loona down here instead.”
+“Fuck me already,” Caylee panted. “Unless you wanna hear me call Kayla down here instead.”
 
 That earned her a growl—and fingers. Dash slid two in, fast, curling them deep, knuckles slick. Caylee threw her head back and howled, legs locking around Dash’s waist. She was already soaking, dripping over Dash’s wrist, grinding down on the heel of her palm.
 
@@ -190,7 +190,7 @@ Finally, she leaned down, kissed her breathless, and whispered:
 ---
 
 NSFW Continuation: “Throttle & Thrust – Part IV: Enter the Captain”
-Featuring: Caylee Jay, Alexandra Dash, Derrian Wolfe
+Featuring: Caylee Jay, Alexandra Dash, Kaidan Wolfe
 Location: Hangar Bay 2
 Scene Type: Commander walks in. Gets seduced. Oral sex. Double muzzlefuck. Cum inside/on.
 
@@ -205,7 +205,7 @@ Thump… thump… thump.
 
 Polished boots on metal.
 
-Captain Derrian Wolfe stepped into the low light, ears twitching slightly, his nine tails flicking once in irritation before settling into stillness. He looked over the scene slowly: torn flight suits, grease-streaked bodies, fluids dripping onto the deck, and a discarded spanner glinting with shine that wasn’t oil.
+Captain Kaidan Wolfe stepped into the low light, ears twitching slightly, his nine tails flicking once in irritation before settling into stillness. He looked over the scene slowly: torn flight suits, grease-streaked bodies, fluids dripping onto the deck, and a discarded spanner glinting with shine that wasn’t oil.
 
 He sighed.
 
@@ -215,7 +215,7 @@ Caylee propped herself up on one elbow, grinning through her messy muzzle. “Yo
 
 “Nothing crashed,” Dash added helpfully, licking her fingers clean.
 
-Derrian shook his head, muttering under his breath in old Kitsune. He strode forward and sat down on the maintenance stool near the tool rack, resting his elbow on one knee. The look on his face was half scold, half exasperated alpha—until Caylee crawled toward him on all fours.
+Kaidan shook his head, muttering under his breath in old Kitsune. He strode forward and sat down on the maintenance stool near the tool rack, resting his elbow on one knee. The look on his face was half scold, half exasperated alpha—until Caylee crawled toward him on all fours.
 
 Grease smeared her chest. Her tail curled. Her tongue flicked out.
 
@@ -223,13 +223,13 @@ Grease smeared her chest. Her tail curled. Her tongue flicked out.
 
 Dash followed, slower, predatory, licking her lips. “Or just let us make it up to you.”
 
-Derrian leaned back slightly as they reached him, heat rising in his eyes. He watched as both girls moved between his knees, unbuckling his belt in practiced tandem, pulling open his uniform pants. His cock sprang free—thick, already hard from the sight of them.
+Kaidan leaned back slightly as they reached him, heat rising in his eyes. He watched as both girls moved between his knees, unbuckling his belt in practiced tandem, pulling open his uniform pants. His cock sprang free—thick, already hard from the sight of them.
 
 Caylee moaned at the sight. “Fuck, I forgot how big you are.”
 
 Dash’s fingers wrapped around the base. “He missed us.”
 
-Caylee licked up the underside in one slow, teasing drag. Dash kissed the tip, tongue flicking across the slit. Derrian growled low, a sound that made both girls shiver.
+Caylee licked up the underside in one slow, teasing drag. Dash kissed the tip, tongue flicking across the slit. Kaidan growled low, a sound that made both girls shiver.
 
 Then they went to work.
 
@@ -237,40 +237,40 @@ Two tongues—slick, greedy, in perfect rhythm—lapping and kissing every inch 
 
 Then Caylee opened wide—and took him deep.
 
-Her throat swallowed around him, nose to base, gagging softly but never backing off. Dash licked her lips, fingers teasing Derrian’s thighs, then leaned in and sucked his cock the moment Caylee pulled back, spit trailing between them.
+Her throat swallowed around him, nose to base, gagging softly but never backing off. Dash licked her lips, fingers teasing Kaidan’s thighs, then leaned in and sucked his cock the moment Caylee pulled back, spit trailing between them.
 
 They passed him back and forth, like a game. Spit-slick, moaning, their muzzles drenched.
 
-Derrian grunted, gripping Caylee’s ears as he fucked into her mouth, slow and deep. “Gods, you two—filthy. Fucking perfect.”
+Kaidan grunted, gripping Caylee’s ears as he fucked into her mouth, slow and deep. “Gods, you two—filthy. Fucking perfect.”
 
 Dash sucked his balls, tongue working in wide swirls as Caylee bobbed faster, eyes glazed, makeup smeared. Then they both took him at once—one muzzle at the head, the other at the base—licking, kissing, worshiping.
 
-“I’m gonna—fuck—” Derrian growled.
+“I’m gonna—fuck—” Kaidan growled.
 
 He grabbed Dash’s muzzle and forced himself into her mouth, hips jerking as he came. Thick ropes of cum poured into her throat, making her gag before she pulled back, coughing, dripping.
 
 Caylee caught the next spurt across her tongue, then another splash hit her cheek. She moaned, eyes fluttering, and leaned in to share it with Dash—tongues swirling together, cum dripping from their lips as they kissed sloppily in front of him.
 
-Derrian sat back, chest rising, sweat on his brow.
+Kaidan sat back, chest rising, sweat on his brow.
 
 The girls licked him clean.
 
 “Think we’re still in trouble?” Caylee asked, smirking.
 
-Derrian’s voice was hoarse.
+Kaidan’s voice was hoarse.
 
 “You’re both on cleanup duty. With your tongues.”
 
 ---
 
 NSFW Scene: “Throttle & Thrust – Part V: Beg For It”
-Featuring: Derrian Wolfe, Caylee Jay, Alexandra Dash
+Featuring: Kaidan Wolfe, Caylee Jay, Alexandra Dash
 Scene Type: Double penetration (one at a time), rough, begging, creampie winner
 
 
 ---
 
-The girls were panting—kneeling, stained with spit, cum, and sweat, their muzzles glistening from the mess they’d just lovingly shared. Derrian stood slowly, towering above them. His cock was still hard, thick with heat and hunger.
+The girls were panting—kneeling, stained with spit, cum, and sweat, their muzzles glistening from the mess they’d just lovingly shared. Kaidan stood slowly, towering above them. His cock was still hard, thick with heat and hunger.
 
 He grabbed Caylee by her messy ponytail, yanked her up onto her feet, and bent her over the nearest crate.
 
@@ -278,7 +278,7 @@ He grabbed Caylee by her messy ponytail, yanked her up onto her feet, and bent h
 
 Caylee whimpered, instantly compliant, tail high and twitching, her cunt already dripping down her thighs again.
 
-Dash started to rise, but Derrian turned his gaze on her. “You too, flygirl. Right beside her.”
+Dash started to rise, but Kaidan turned his gaze on her. “You too, flygirl. Right beside her.”
 
 Dash bared her teeth in a wicked grin and climbed up, folding over the crate next to Caylee, her firm ass pressing against the jackal’s hip. “We’re not gonna make this easy for you, Captain.”
 
@@ -296,7 +296,7 @@ Caylee whimpered beside them, grinding against the wood, her fingers slipping be
 
 “Gonna let her take all your cum, Cap?” she whispered. “I’d milk you dry.”
 
-Derrian pulled out of Dash suddenly, making her curse, and slammed into Caylee next—balls deep on the first thrust. The jackal screamed, back arching, tail wrapping around his thigh.
+Kaidan pulled out of Dash suddenly, making her curse, and slammed into Caylee next—balls deep on the first thrust. The jackal screamed, back arching, tail wrapping around his thigh.
 
 “F-fuck yes! Fuck me, Captain!”
 
@@ -304,15 +304,15 @@ He gripped her hips and started slamming into her, rutting with furious strength
 
 “I want it inside me,” she snarled, reaching back to spread herself open, dripping down her thighs. “I can take more. I’ll beg.”
 
-“Then do it,” Derrian growled.
+“Then do it,” Kaidan growled.
 
-Dash crawled over, kissing Caylee hard—tongues colliding, filthy and hot—and then looked up at Derrian, eyes wide, voice breathless.
+Dash crawled over, kissing Caylee hard—tongues colliding, filthy and hot—and then looked up at Kaidan, eyes wide, voice breathless.
 
 “Please, Captain. Fill me. I want it—need it. I want to feel you leaking out of me for hours. I’ll fucking fly you anywhere, just fuck me full.”
 
 Caylee moaned, panting into the crate. “She’s not gonna beg like I will. Please, fill my tight little pussy, make me smell like your cum for days—gods, I need it, Daddy—”
 
-Derrian’s control snapped.
+Kaidan’s control snapped.
 
 He yanked out of Caylee with a wet squelch, grabbed Dash by the waist, and threw her back over the crate. She gasped—and then screamed as he slammed into her again, harder, faster, a savage rhythm that rocked the crate under them.
 
@@ -322,13 +322,13 @@ Her claws dug in. Her legs shook. Her mouth hung open.
 
 That was it.
 
-With a guttural roar, Derrian buried himself to the hilt—and came deep inside her. Thick, hot spurts poured into her womb, Dash’s whole body trembling as she moaned through her orgasm, her pussy milking every drop of his load.
+With a guttural roar, Kaidan buried himself to the hilt—and came deep inside her. Thick, hot spurts poured into her womb, Dash’s whole body trembling as she moaned through her orgasm, her pussy milking every drop of his load.
 
 Caylee, panting beside them, let out a desperate, whiny growl.
 
 “Fuck… next time… I’m winning.”
 
-Derrian pulled out of Dash, his cum dripping from her cunt, leaking down her thighs, and smacked Caylee’s ass hard enough to make her yelp.
+Kaidan pulled out of Dash, his cum dripping from her cunt, leaking down her thighs, and smacked Caylee’s ass hard enough to make her yelp.
 
 “You better beg louder.”
 
